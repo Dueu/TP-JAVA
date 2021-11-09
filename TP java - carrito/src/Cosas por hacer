@@ -1,5 +1,0 @@
-cosas por hacer:
-
-un metodo para el ingreso y salida del usuario al sistema por contraseña
-
-un metodo para evitar que se repitan los usuarios y sus contraseñas. Haciendo que otros nuevos usuarios tengan que elegir otro String si escribieron uno que se repite en el sistema
