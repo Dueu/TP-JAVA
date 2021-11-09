@@ -2,7 +2,7 @@ package clase;
 
 public class Articulo {
 	
-	//Los articulos deben tener: Código de Articulo, Nombre/descripción y precio.
+	//Los articulos deben tener: CÃ³digo de Articulo, Nombre/descripciÃ³n y precio.
 	
 	private String codigoArt;
 	private String nombre;
@@ -36,5 +36,5 @@ public class Articulo {
 		this.precio = precio;
 	}
 	
-
+// constructor
 }
